@@ -1,0 +1,623 @@
+Manufacturing Year,Brand,Model,Distance Driven,Fuel Type,Price
+2019,Honda,Honda Jazz,74K km,diesel,5.29 Lakh
+2018,Honda,Honda Jazz,34K km,petrol,5.95 Lakh
+2021,Kia,Kia Seltos,17.5K km,petrol,10.81 Lakh
+2017,Maruti,Maruti Wagon R,84K km,petrol,3.32 Lakh
+2021,Jeep,Jeep Compass,90.5K km,diesel,20.59 Lakh
+2022,Kia,Kia Sonet,86.5K km,diesel,10.81 Lakh
+2020,Maruti,Maruti Swift,80K km,diesel,6.14 Lakh
+2013,Hyundai,Hyundai i10,119K km,petrol,2.65 Lakh
+2019,Hyundai,Hyundai Creta,98.5K km,diesel,9.92 Lakh
+2019,Hyundai,Hyundai Verna,33.5K km,petrol,8.05 Lakh
+2023,Mahindra,Mahindra Thar,42K km,diesel,13.43 Lakh
+2018,Renault,Renault Kwid,99.5K km,petrol,3.29 Lakh
+2014,Hyundai,Hyundai i20,68K km,petrol,3.20 Lakh
+2021,Maruti,Maruti Swift,36K km,petrol,5.52 Lakh
+2022,Maruti,Maruti Baleno,30.5K km,petrol,6.89 Lakh
+2016,Hyundai,Hyundai Verna,79K km,petrol,5.32 Lakh
+2025,Tata,Tata Curvv,18.5K km,diesel,14.81 Lakh
+2024,Jeep,Jeep Compass,58K km,diesel,25.60 Lakh
+2022,Hyundai,Hyundai New i20,11.5K km,petrol,8.13 Lakh
+2020,Maruti,Maruti Alto 800,35.5K km,petrol,3.07 Lakh
+2016,Hyundai,Hyundai Elite i20,102.5K km,diesel,5.80 Lakh
+2021,Kia,Kia Seltos,24K km,petrol,13.32 Lakh
+2017,Renault,Renault Kwid,66.5K km,petrol,3.26 Lakh
+2022,Hyundai,Hyundai Venue,67K km,petrol,8.13 Lakh
+2018,Maruti,Maruti Celerio,85.5K km,petrol,3.71 Lakh
+2019,Hyundai,Hyundai Creta,51K km,petrol,11.12 Lakh
+2015,Maruti,Maruti Baleno,93K km,petrol,4.82 Lakh
+2019,Hyundai,Hyundai Venue,71.5K km,petrol,7.90 Lakh
+2021,BMW,BMW X1,40.5K km,petrol,27.50 Lakh
+2017,Ford,Ford Figo,70.5K km,diesel,4.41 Lakh
+2013,Volkswagen,Volkswagen Vento,78K km,diesel,3.78 Lakh
+2017,Maruti,Maruti Ignis,58K km,petrol,4.24 Lakh
+2011,Maruti,Maruti Alto K10,26.5K km,petrol,1.99 Lakh
+2017,Maruti,Maruti Swift,62K km,petrol,4.69 Lakh
+2017,Honda,Honda Brio,31.5K km,petrol,4.52 Lakh
+2015,Hyundai,Hyundai Elite i20,53.5K km,petrol,5.35 Lakh
+2013,Maruti,Maruti Alto K10,59K km,petrol,2.09 Lakh
+2014,Hyundai,Hyundai Grand i10,57.5K km,petrol,3.60 Lakh
+2020,Kia,Kia Seltos,30K km,petrol,12.88 Lakh
+2015,Maruti,Maruti Swift,86K km,petrol,4.09 Lakh
+2019,Land,Land Rover Discovery Sport,52.5K km,diesel,27.90 Lakh
+2021,Hyundai,Hyundai Venue,40.5K km,petrol,9.13 Lakh
+2019,Kia,Kia Seltos,105.5K km,petrol,10.50 Lakh
+2018,Hyundai,Hyundai Xcent,59.5K km,petrol,5.13 Lakh
+2019,Renault,Renault Kwid,33K km,petrol,3.83 Lakh
+2013,Maruti,Maruti Swift,85.5K km,petrol,3.48 Lakh
+2022,Hyundai,Hyundai Venue,16K km,petrol,9.18 Lakh
+2012,Maruti,Maruti Swift,58K km,petrol,3.98 Lakh
+2016,Volkswagen,Volkswagen Ameo,96K km,petrol,3.59 Lakh
+2015,Maruti,Maruti Alto 800,94K km,petrol,2.16 Lakh
+2021,Mahindra,Mahindra XUV 300,81K km,petrol,7.82 Lakh
+2016,Hyundai,Hyundai i10,75K km,petrol,3.14 Lakh
+2021,Jeep,Jeep Compass,59K km,petrol,16.75 Lakh
+2017,Hyundai,Hyundai Eon,43.5K km,petrol,3.28 Lakh
+2022,Mahindra,Mahindra Scorpio N,32K km,petrol,17.52 Lakh
+2021,Maruti,Maruti XL6,113K km,petrol,9.71 Lakh
+2022,MG,MG Astor,62K km,petrol,11.05 Lakh
+2015,Maruti,Maruti Alto 800,92K km,petrol,2.22 Lakh
+2015,Hyundai,Hyundai Elite i20,144.5K km,petrol,4.27 Lakh
+2021,Mahindra,Mahindra Thar,29K km,petrol,12.42 Lakh
+2021,Maruti,Maruti Alto 800,34K km,petrol,3.39 Lakh
+2021,Hyundai,Hyundai Venue,17.5K km,petrol,8.55 Lakh
+2020,Maruti,Maruti Swift,32.5K km,petrol,6.35 Lakh
+2023,Jeep,Jeep Meridian,52K km,diesel,25.90 Lakh
+2020,Honda,Honda City,58K km,petrol,9.81 Lakh
+2016,Hyundai,Hyundai Elite i20,41.5K km,petrol,5.09 Lakh
+2022,Maruti,Maruti S-Presso,35.5K km,petrol,4.44 Lakh
+2018,Mahindra,Mahindra TUV300,95K km,diesel,6.09 Lakh
+2019,Hyundai,Hyundai Elite i20,104K km,diesel,6.75 Lakh
+2022,Maruti,Maruti XL6,31.5K km,petrol,10.12 Lakh
+2016,Honda,Honda Jazz,87.5K km,diesel,4.72 Lakh
+2014,Hyundai,Hyundai Grand i10,90.5K km,petrol,3.72 Lakh
+2024,Maruti,Maruti Celerio,27K km,petrol,5.52 Lakh
+2019,Renault,Renault Kwid,72.5K km,petrol,3.05 Lakh
+2021,Maruti,Maruti Wagon R 1.2,22.5K km,petrol,4.78 Lakh
+2011,Hyundai,Hyundai i10,70K km,petrol,2.21 Lakh
+2015,Maruti,Maruti Celerio,44K km,petrol,3.55 Lakh
+2020,Kia,Kia Seltos,89.5K km,petrol,11.19 Lakh
+2015,Maruti,Maruti Ritz,110.5K km,petrol,3.08 Lakh
+2021,Renault,Renault Kiger,25K km,petrol,7.22 Lakh
+2021,Kia,Kia Seltos,84K km,petrol,13.45 Lakh
+2013,Hyundai,Hyundai i10,51.5K km,petrol,2.81 Lakh
+2022,Honda,Honda City,84.5K km,petrol,11.33 Lakh
+2022,Honda,Honda City,22K km,petrol,9.50 Lakh
+2022,Skoda,Skoda Kushaq,102.5K km,petrol,12.18 Lakh
+2019,Renault,Renault Kwid,90.5K km,petrol,3.10 Lakh
+2016,Maruti,Maruti Alto 800,49.5K km,petrol,2.74 Lakh
+2022,Maruti,Maruti Alto K10,13.5K km,petrol,4.28 Lakh
+2022,Volkswagen,Volkswagen Taigun,56K km,petrol,11.25 Lakh
+2023,Mahindra,Mahindra Scorpio N,35.5K km,diesel,23.05 Lakh
+2021,Ford,Ford Figo Aspire,39K km,petrol,6.23 Lakh
+2017,Honda,Honda Amaze,41.5K km,petrol,4.37 Lakh
+2017,Hyundai,Hyundai Elite i20,90K km,petrol,4.95 Lakh
+2011,Hyundai,Hyundai i10,19K km,petrol,2.68 Lakh
+2022,Jeep,Jeep Compass,55K km,petrol,17.90 Lakh
+2019,Maruti,Maruti Alto 800,46K km,petrol,3.20 Lakh
+2016,Maruti,Maruti Alto K10,62.5K km,petrol,2.67 Lakh
+2019,Hyundai,Hyundai Santro,59.5K km,petrol,4.10 Lakh
+2016,Ford,Ford Figo,62K km,petrol,4.38 Lakh
+2017,Maruti,Maruti Alto 800,42.5K km,petrol,2.76 Lakh
+2014,Maruti,Maruti Swift Dzire,124.5K km,petrol,3.93 Lakh
+2018,Datsun,Datsun Redi-GO,39.5K km,petrol,2.32 Lakh
+2022,BMW,BMW 3 Series,30.5K km,diesel,35.90 Lakh
+2014,Hyundai,Hyundai Xcent,86.5K km,petrol,3.83 Lakh
+2012,Hyundai,Hyundai Eon,26K km,petrol,2.30 Lakh
+2021,Kia,Kia Seltos,116.5K km,petrol,9.78 Lakh
+2012,Maruti,Maruti Swift,77.5K km,petrol,3.25 Lakh
+2018,Renault,Renault Kwid,100K km,petrol,3.20 Lakh
+2021,Hyundai,Hyundai Venue,17K km,petrol,8.57 Lakh
+2017,Hyundai,Hyundai Xcent,32.5K km,petrol,4.94 Lakh
+2018,Maruti,Maruti Baleno,100K km,petrol,5.17 Lakh
+2023,Maruti,Maruti Alto 800,48.5K km,petrol,3.46 Lakh
+2023,Skoda,Skoda Slavia,11K km,petrol,9.98 Lakh
+2021,Renault,Renault Kiger,28K km,petrol,6.10 Lakh
+2018,Honda,Honda Jazz,88.5K km,petrol,5.11 Lakh
+2021,Maruti,Maruti Vitara Brezza,95K km,petrol,8.40 Lakh
+2021,Hyundai,Hyundai Venue,49.5K km,petrol,8.87 Lakh
+2017,Maruti,Maruti Alto 800,78K km,petrol,2.56 Lakh
+2020,Kia,Kia Seltos,101K km,petrol,9.32 Lakh
+2021,Maruti,Maruti Alto 800,20.5K km,petrol,3.41 Lakh
+2017,Ford,Ford EcoSport,97.5K km,diesel,5.67 Lakh
+2021,Kia,Kia Seltos,54.5K km,petrol,14.35 Lakh
+2022,Volkswagen,Volkswagen Taigun,54.5K km,petrol,12.53 Lakh
+2016,Honda,Honda Jazz,66.5K km,petrol,4.26 Lakh
+2021,Honda,Honda WR-V,116K km,diesel,6.83 Lakh
+2012,Maruti,Maruti Alto K10,99K km,petrol,1.57 Lakh
+2016,Hyundai,Hyundai Eon,63.5K km,petrol,2.70 Lakh
+2021,Ford,Ford EcoSport,87.5K km,diesel,7.46 Lakh
+2019,Hyundai,Hyundai Elite i20,42.5K km,petrol,6.20 Lakh
+2021,Maruti,Maruti Baleno,89.5K km,petrol,6.81 Lakh
+2023,Renault,Renault Kwid,8.5K km,petrol,5.24 Lakh
+2015,Honda,Honda City,117.5K km,petrol,5.26 Lakh
+2017,Maruti,Maruti Ciaz,97K km,petrol,5.38 Lakh
+2019,Mahindra,Mahindra XUV 300,65K km,diesel,8.91 Lakh
+2021,Honda,Honda WR-V,98K km,diesel,7.89 Lakh
+2022,Maruti,Maruti Ignis,41K km,petrol,5.70 Lakh
+2018,Maruti,Maruti Ignis,55K km,petrol,4.84 Lakh
+2019,Maruti,Maruti Dzire,56K km,diesel,7.13 Lakh
+2017,Maruti,Maruti Wagon R 1.0,77.5K km,petrol,3.51 Lakh
+2015,Maruti,Maruti Swift,103K km,petrol,4.38 Lakh
+2022,Skoda,Skoda Kushaq,51K km,petrol,11.71 Lakh
+2018,Maruti,Maruti Celerio,53K km,petrol,4.42 Lakh
+2022,Renault,Renault Kiger,44.5K km,petrol,8.04 Lakh
+2015,Honda,Honda City,73K km,petrol,5.90 Lakh
+2020,Hyundai,Hyundai i20,36.5K km,petrol,7.73 Lakh
+2018,Honda,Honda City,53K km,petrol,6.89 Lakh
+2013,Hyundai,Hyundai i10,69.5K km,petrol,2.64 Lakh
+2016,Hyundai,Hyundai Elite i20,129.5K km,petrol,4.53 Lakh
+2022,Volkswagen,Volkswagen Virtus,92K km,petrol,12.90 Lakh
+2015,Hyundai,Hyundai Grand i10,72.5K km,petrol,3.60 Lakh
+2017,Hyundai,Hyundai Creta,64K km,petrol,8.76 Lakh
+2022,Maruti,Maruti S-Presso,42.5K km,petrol,4.05 Lakh
+2021,MG,MG Hector,46K km,hybrid,11.78 Lakh
+2013,Ford,Ford Figo,105K km,petrol,2.22 Lakh
+2011,Maruti,Maruti Swift,101.5K km,petrol,2.49 Lakh
+2022,Hyundai,Hyundai Venue,31.5K km,petrol,8.45 Lakh
+2022,Maruti,Maruti Brezza,28.5K km,petrol,10.25 Lakh
+2018,Maruti,Maruti Wagon R,36.5K km,petrol,3.69 Lakh
+2023,Kia,Kia Carens,33.5K km,petrol,13.22 Lakh
+2016,Hyundai,Hyundai Grand i10,76K km,petrol,3.80 Lakh
+2021,Kia,Kia Sonet,109.5K km,diesel,7.78 Lakh
+2022,Maruti,Maruti XL6,42.5K km,petrol,9.95 Lakh
+2018,Maruti,Maruti Swift,90K km,diesel,5.93 Lakh
+2017,Maruti,Maruti Alto K10,44K km,petrol,3.06 Lakh
+2018,Hyundai,Hyundai Elite i20,73.5K km,petrol,5.74 Lakh
+2022,Kia,Kia Sonet,46.5K km,petrol,9.60 Lakh
+2017,Hyundai,Hyundai Xcent,74K km,petrol,4.53 Lakh
+2020,Maruti,Maruti Alto 800,57.5K km,petrol,3.08 Lakh
+2022,Honda,Honda City,68.5K km,petrol,10.58 Lakh
+2019,Hyundai,Hyundai Elite i20,83K km,petrol,4.94 Lakh
+2022,Maruti,Maruti Brezza,122.5K km,petrol,9.47 Lakh
+2022,Maruti,Maruti Alto K10,16K km,petrol,4.26 Lakh
+2018,Maruti,Maruti Ignis,51.5K km,petrol,4.71 Lakh
+2013,Hyundai,Hyundai Grand i10,43.5K km,petrol,3.59 Lakh
+2015,Tata,Tata Zest,83K km,petrol,3.72 Lakh
+2015,Hyundai,Hyundai i20 Active,74K km,petrol,4.84 Lakh
+2020,Skoda,Skoda Rapid,114K km,petrol,7.15 Lakh
+2018,Maruti,Maruti Alto 800,70K km,petrol,2.57 Lakh
+2022,Maruti,Maruti Ignis,24K km,petrol,5.18 Lakh
+2013,Hyundai,Hyundai i10,47.5K km,petrol,2.86 Lakh
+2011,Hyundai,Hyundai i10,33.5K km,petrol,2.51 Lakh
+2014,Hyundai,Hyundai Xcent,139.5K km,diesel,3.32 Lakh
+2020,Kia,Kia Seltos,96K km,petrol,11.48 Lakh
+2014,Hyundai,Hyundai Elite i20,127K km,petrol,4.25 Lakh
+2017,Renault,Renault Kwid,38.5K km,petrol,3.30 Lakh
+2018,Hyundai,Hyundai Elite i20,76.5K km,diesel,6.40 Lakh
+2023,Honda,Honda Amaze,26.5K km,petrol,7.92 Lakh
+2014,Maruti,Maruti Alto 800,76K km,petrol,2.16 Lakh
+2015,Hyundai,Hyundai Elite i20,72.5K km,petrol,4.75 Lakh
+2016,Hyundai,Hyundai Xcent,85K km,petrol,4.05 Lakh
+2022,Kia,Kia Seltos,27.5K km,petrol,14.81 Lakh
+2014,Maruti,Maruti Wagon R,69.5K km,petrol,2.96 Lakh
+2018,Maruti,Maruti Alto 800,79K km,petrol,2.28 Lakh
+2019,Hyundai,Hyundai Santro,108K km,petrol,3.92 Lakh
+2017,Maruti,Maruti Alto 800,95.5K km,petrol,2.39 Lakh
+2015,Maruti,Maruti Celerio,144.5K km,petrol,2.87 Lakh
+2021,Kia,Kia Sonet,39.5K km,diesel,9.53 Lakh
+2016,Renault,Renault Kwid,147K km,petrol,2.40 Lakh
+2023,Volkswagen,Volkswagen Virtus,49K km,petrol,10.58 Lakh
+2021,Mahindra,Mahindra XUV 300,32K km,petrol,9.85 Lakh
+2019,Hyundai,Hyundai Elite i20,110.5K km,petrol,5.17 Lakh
+2021,MG,MG Hector,29.5K km,petrol,14.33 Lakh
+2018,Hyundai,Hyundai Elite i20,80.5K km,diesel,6.50 Lakh
+2021,Hyundai,Hyundai Venue,56K km,petrol,8.02 Lakh
+2019,Maruti,Maruti Alto K10,45K km,petrol,3.48 Lakh
+2022,MG,MG Hector,55.5K km,petrol,14.81 Lakh
+2016,Hyundai,Hyundai Elite i20,77K km,petrol,4.88 Lakh
+2013,Maruti,Maruti Swift,51K km,petrol,3.54 Lakh
+2018,Ford,Ford Freestyle,98K km,diesel,4.98 Lakh
+2022,Hyundai,Hyundai Venue,18K km,petrol,9.07 Lakh
+2018,Datsun,Datsun Redi-GO,51K km,petrol,2.63 Lakh
+2022,Hyundai,Hyundai Grand i10 Nios,22.5K km,cng,6.35 Lakh
+2018,Maruti,Maruti Ciaz,76.5K km,petrol,5.81 Lakh
+2023,Volkswagen,Volkswagen Virtus,45.5K km,petrol,11.90 Lakh
+2016,Maruti,Maruti Celerio,55K km,petrol,3.70 Lakh
+2017,Renault,Renault Kwid,39.5K km,petrol,3.02 Lakh
+2018,Honda,Honda Amaze,77.5K km,petrol,5.17 Lakh
+2018,Maruti,Maruti Wagon R,52K km,petrol,3.72 Lakh
+2022,Honda,Honda City,88.5K km,petrol,9.75 Lakh
+2013,Maruti,Maruti Alto K10,55.5K km,petrol,2.22 Lakh
+2017,Hyundai,Hyundai Eon,95K km,petrol,2.84 Lakh
+2022,Honda,Honda City,28K km,petrol,11.26 Lakh
+2020,Kia,Kia Seltos,90.5K km,petrol,10.65 Lakh
+2013,Maruti,Maruti Wagon R,57K km,petrol,2.45 Lakh
+2017,Hyundai,Hyundai Elite i20,108.5K km,diesel,5.43 Lakh
+2019,Tata,Tata Nexon,45K km,diesel,7.54 Lakh
+2016,Hyundai,Hyundai Grand i10,33K km,petrol,4.45 Lakh
+2020,Kia,Kia Seltos,52.5K km,petrol,12.83 Lakh
+2022,Volkswagen,Volkswagen Virtus,44K km,petrol,11.71 Lakh
+2018,Hyundai,Hyundai Eon,84K km,petrol,2.88 Lakh
+2021,Tata,Tata Altroz,68K km,petrol,6.45 Lakh
+2020,MG,MG Hector,74.5K km,diesel,12.23 Lakh
+2021,Hyundai,Hyundai Verna,36K km,petrol,11.25 Lakh
+2023,Kia,Kia Sonet,23K km,petrol,9.47 Lakh
+2023,Renault,Renault Kwid,30.5K km,petrol,3.97 Lakh
+2021,Kia,Kia Seltos,82K km,petrol,10.42 Lakh
+2012,Hyundai,Hyundai i10,39K km,petrol,2.58 Lakh
+2017,Maruti,Maruti Baleno,28.5K km,petrol,5.95 Lakh
+2014,Hyundai,Hyundai Grand i10,109K km,petrol,3.63 Lakh
+2018,Renault,Renault Kwid,76K km,petrol,3.06 Lakh
+2010,Maruti,Maruti Swift Dzire,42.5K km,petrol,2.72 Lakh
+2015,Honda,Honda Amaze,69K km,petrol,4.10 Lakh
+2024,Renault,Renault Triber,19.5K km,petrol,7.71 Lakh
+2013,Honda,Honda Brio,73.5K km,petrol,2.56 Lakh
+2019,MG,MG Hector,77.5K km,diesel,12.17 Lakh
+2014,Honda,Honda City,95.5K km,petrol,4.63 Lakh
+2018,Hyundai,Hyundai Grand i10,39K km,petrol,4.62 Lakh
+2017,Hyundai,Hyundai Elite i20,51.5K km,petrol,5.12 Lakh
+2014,Hyundai,Hyundai i10,44.5K km,petrol,3.02 Lakh
+2022,Volkswagen,Volkswagen Virtus,23.5K km,petrol,10.62 Lakh
+2023,MG,MG Astor,12K km,petrol,15.16 Lakh
+2017,Hyundai,Hyundai Creta,64.5K km,petrol,8.78 Lakh
+2022,Maruti,Maruti Alto 800,17.5K km,petrol,3.54 Lakh
+2016,Maruti,Maruti Wagon R,44.5K km,petrol,3.32 Lakh
+2023,MG,MG Astor,29K km,petrol,10.94 Lakh
+2023,Maruti,Maruti Brezza,71K km,petrol,9.95 Lakh
+2016,Hyundai,Hyundai Grand i10,75.5K km,petrol,4.49 Lakh
+2021,Tata,Tata Nexon,55K km,diesel,9.45 Lakh
+2016,Maruti,Maruti Baleno,131.5K km,petrol,4.02 Lakh
+2018,Hyundai,Hyundai Elite i20,104K km,petrol,5.05 Lakh
+2018,Maruti,Maruti Ciaz,105K km,petrol,6.29 Lakh
+2022,Kia,Kia Seltos,97K km,diesel,12.46 Lakh
+2016,Maruti,Maruti Baleno,65.5K km,petrol,5.08 Lakh
+2016,Renault,Renault Kwid,107.5K km,petrol,2.60 Lakh
+2023,Maruti,Maruti XL6,19.5K km,petrol,11.81 Lakh
+2014,Maruti,Maruti Swift,96.5K km,petrol,3.54 Lakh
+2024,Tata,Tata Curvv,13.5K km,petrol,12.36 Lakh
+2018,Datsun,Datsun Redi-GO,83.5K km,petrol,2.55 Lakh
+2018,Maruti,Maruti Alto 800,41.5K km,petrol,2.84 Lakh
+2023,Honda,Honda City,26.5K km,petrol,13.35 Lakh
+2011,Hyundai,Hyundai i10,35K km,petrol,2.49 Lakh
+2017,Hyundai,Hyundai Eon,41.5K km,petrol,2.80 Lakh
+2015,Hyundai,Hyundai i20 Active,141.5K km,petrol,4.11 Lakh
+2017,Maruti,Maruti Dzire,69.5K km,diesel,6.09 Lakh
+2023,Hyundai,Hyundai New i20,27K km,petrol,8.21 Lakh
+2013,Maruti,Maruti Alto 800,108.5K km,cng,2.21 Lakh
+2017,Maruti,Maruti Baleno,112.5K km,petrol,5.05 Lakh
+2019,Renault,Renault Kwid,63.5K km,petrol,3.29 Lakh
+2014,Hyundai,Hyundai i10,86K km,petrol,2.78 Lakh
+2022,Volkswagen,Volkswagen Virtus,12K km,petrol,10.96 Lakh
+2017,Maruti,Maruti Ignis,69K km,petrol,4.85 Lakh
+2022,Kia,Kia Sonet,93.5K km,diesel,9.51 Lakh
+2013,Maruti,Maruti Swift Dzire,42.5K km,petrol,3.95 Lakh
+2018,Maruti,Maruti S-Cross,70.5K km,diesel,7.75 Lakh
+2021,Maruti,Maruti Baleno,67.5K km,petrol,6.55 Lakh
+2021,Renault,Renault Kwid,79K km,petrol,3.36 Lakh
+2022,Hyundai,Hyundai Venue,12K km,petrol,8.81 Lakh
+2018,Maruti,Maruti Baleno,48K km,petrol,5.22 Lakh
+2022,Maruti,Maruti XL6,30K km,petrol,11.60 Lakh
+2020,Datsun,Datsun Redi-GO,39K km,petrol,2.97 Lakh
+2014,Hyundai,Hyundai Grand i10,90.5K km,petrol,3.31 Lakh
+2021,Maruti,Maruti Alto 800,29K km,petrol,3.47 Lakh
+2012,Maruti,Maruti Swift Dzire,75K km,petrol,3.42 Lakh
+2018,Renault,Renault Kwid,93.5K km,petrol,2.90 Lakh
+2023,Mahindra,Mahindra Scorpio N,55K km,petrol,19.09 Lakh
+2019,Renault,Renault Triber,69.5K km,petrol,4.85 Lakh
+2018,Hyundai,Hyundai Grand i10,14K km,petrol,5.39 Lakh
+2016,Renault,Renault Kwid,67.5K km,petrol,2.81 Lakh
+2022,Honda,Honda City,19K km,petrol,11.03 Lakh
+2022,Volkswagen,Volkswagen Taigun,60K km,petrol,12.62 Lakh
+2016,Ford,Ford Figo Aspire,114K km,petrol,3.72 Lakh
+2015,Honda,Honda City,52K km,petrol,6.55 Lakh
+2024,Maruti,Maruti Grand Vitara,24K km,hybrid,17.69 Lakh
+2019,Hyundai,Hyundai Venue,77.5K km,petrol,7.66 Lakh
+2021,Maruti,Maruti S-Cross,124.5K km,petrol,7.36 Lakh
+2013,Honda,Honda Amaze,114K km,petrol,3.60 Lakh
+2017,Renault,Renault Kwid,36.5K km,petrol,2.98 Lakh
+2022,Hyundai,Hyundai Grand i10 Nios,34.5K km,petrol,5.72 Lakh
+2022,Hyundai,Hyundai New i20,32.5K km,petrol,7.70 Lakh
+2017,Renault,Renault Kwid,40.5K km,petrol,2.54 Lakh
+2023,Maruti,Maruti S-Presso,33K km,petrol,4.15 Lakh
+2023,Kia,Kia Sonet,20.5K km,petrol,12.22 Lakh
+2022,Maruti,Maruti Vitara Brezza,7.5K km,petrol,8.98 Lakh
+2019,Hyundai,Hyundai Elite i20,105K km,petrol,5.32 Lakh
+2018,Renault,Renault Captur,95K km,diesel,6.39 Lakh
+2018,Renault,Renault Kwid,53.5K km,petrol,2.90 Lakh
+2023,Honda,Honda WR-V,31K km,petrol,7.92 Lakh
+2018,Maruti,Maruti Ignis,60.5K km,petrol,5.03 Lakh
+2020,Renault,Renault Kwid,116.5K km,petrol,3 Lakh
+2015,Hyundai,Hyundai Grand i10,49.5K km,petrol,3.86 Lakh
+2021,Honda,Honda Jazz,73K km,petrol,7.41 Lakh
+2022,Kia,Kia Sonet,60K km,petrol,9.30 Lakh
+2023,Maruti,Maruti Celerio,97.5K km,petrol,5.06 Lakh
+2020,Tata,Tata Nexon,67.5K km,petrol,8.03 Lakh
+2023,Tata,Tata Harrier,117K km,diesel,15.45 Lakh
+2018,Hyundai,Hyundai i20 Active,55.5K km,petrol,6.32 Lakh
+2022,Maruti,Maruti Ertiga,101.5K km,petrol,9.96 Lakh
+2016,Maruti,Maruti Celerio,22K km,petrol,4.20 Lakh
+2022,MG,MG Astor,29K km,petrol,9.57 Lakh
+2021,Hyundai,Hyundai Creta,44.5K km,petrol,11.02 Lakh
+2022,Tata,Tata Altroz,16.5K km,petrol,7.44 Lakh
+2016,Hyundai,Hyundai Elite i20,120K km,petrol,4.52 Lakh
+2020,Renault,Renault Triber,125.5K km,petrol,4.86 Lakh
+2018,Hyundai,Hyundai Elite i20,97.5K km,diesel,6.21 Lakh
+2024,Honda,Honda Amaze,10K km,petrol,8.97 Lakh
+2019,Hyundai,Hyundai Eon,42K km,petrol,2.85 Lakh
+2015,Hyundai,Hyundai i10,52.5K km,petrol,3.08 Lakh
+2022,Hyundai,Hyundai Verna,34K km,petrol,10.23 Lakh
+2014,Maruti,Maruti Ciaz,125K km,petrol,3.98 Lakh
+2014,Hyundai,Hyundai i10,91K km,petrol,2.81 Lakh
+2021,Maruti,Maruti Swift,95.5K km,petrol,6.58 Lakh
+2024,Maruti,Maruti XL6,70K km,petrol,10.88 Lakh
+2016,Maruti,Maruti Vitara Brezza,137.5K km,diesel,6.17 Lakh
+2019,Hyundai,Hyundai Creta,68K km,diesel,10.12 Lakh
+2017,Hyundai,Hyundai Verna,21K km,petrol,8.49 Lakh
+2017,Mahindra,Mahindra TUV300,114.5K km,diesel,6.40 Lakh
+2017,Hyundai,Hyundai Eon,100K km,petrol,2.19 Lakh
+2020,Kia,Kia Seltos,88.5K km,diesel,9.69 Lakh
+2021,Maruti,Maruti Alto 800,24.5K km,petrol,3.58 Lakh
+2014,Hyundai,Hyundai Eon,41K km,petrol,2.56 Lakh
+2023,Tata,Tata Tigor,24K km,petrol,6.68 Lakh
+2019,Hyundai,Hyundai Elite i20,54K km,petrol,6.22 Lakh
+2021,Honda,Honda Amaze,45K km,diesel,8.41 Lakh
+2024,Mahindra,Mahindra XUV 3XO,27.5K km,diesel,11.88 Lakh
+2018,Hyundai,Hyundai Xcent,57.5K km,petrol,4.73 Lakh
+2017,Hyundai,Hyundai i20 Active,70K km,petrol,5.32 Lakh
+2022,Volkswagen,Volkswagen Taigun,43K km,petrol,12.59 Lakh
+2016,Tata,Tata Zest,79K km,petrol,3.58 Lakh
+2015,Maruti,Maruti Swift Dzire,86K km,petrol,4.14 Lakh
+2020,Maruti,Maruti Alto 800,40.5K km,petrol,3.04 Lakh
+2021,Maruti,Maruti Swift,51.5K km,petrol,6.22 Lakh
+2019,Hyundai,Hyundai Eon,59K km,petrol,2.69 Lakh
+2023,Maruti,Maruti Brezza,49.5K km,petrol,9.52 Lakh
+2017,Ford,Ford Figo Aspire,50K km,petrol,4.73 Lakh
+2014,Maruti,Maruti Alto 800,38K km,petrol,2.17 Lakh
+2017,Maruti,Maruti Ignis,84K km,diesel,4.49 Lakh
+2016,Honda,Honda Jazz,113.5K km,petrol,4.04 Lakh
+2022,Kia,Kia Seltos,71.5K km,petrol,14.22 Lakh
+2022,Maruti,Maruti Alto 800,44.5K km,petrol,3.31 Lakh
+2018,Volkswagen,Volkswagen Polo,107K km,petrol,4.87 Lakh
+2018,Maruti,Maruti Vitara Brezza,113K km,diesel,7.03 Lakh
+2021,Maruti,Maruti S-Cross,91K km,petrol,6.56 Lakh
+2016,Maruti,Maruti Ritz,99K km,petrol,3.05 Lakh
+2021,Ford,Ford Freestyle,27K km,petrol,5.90 Lakh
+2018,Maruti,Maruti Baleno,60.5K km,petrol,6.16 Lakh
+2021,Maruti,Maruti Baleno,35K km,petrol,7.06 Lakh
+2022,Maruti,Maruti Alto 800,41K km,petrol,3.63 Lakh
+2019,Maruti,Maruti Alto 800,33.5K km,petrol,2.86 Lakh
+2020,Ford,Ford Freestyle,54.5K km,petrol,4.90 Lakh
+2022,Renault,Renault Kwid,39.5K km,petrol,3.20 Lakh
+2012,Ford,Ford Figo,111K km,diesel,2.40 Lakh
+2022,Maruti,Maruti Brezza,22K km,petrol,10.51 Lakh
+2020,Kia,Kia Sonet,61K km,petrol,9.11 Lakh
+2018,Hyundai,Hyundai Grand i10,28.5K km,petrol,5.49 Lakh
+2022,Hyundai,Hyundai Venue,28.5K km,petrol,10.32 Lakh
+2021,Maruti,Maruti Swift,44K km,petrol,6.22 Lakh
+2015,Hyundai,Hyundai Elite i20,92.5K km,petrol,4.74 Lakh
+2019,Hyundai,Hyundai Venue,103.5K km,petrol,7.49 Lakh
+2023,Kia,Kia Sonet,16.5K km,petrol,10.15 Lakh
+2020,Hyundai,Hyundai Elite i20,106.5K km,petrol,6.17 Lakh
+2020,Hyundai,Hyundai Venue,75K km,petrol,7.10 Lakh
+2019,Skoda,Skoda Rapid,118.5K km,diesel,7.34 Lakh
+2018,Tata,Tata Tiago,46.5K km,petrol,4.32 Lakh
+2016,Hyundai,Hyundai Grand i10,50.5K km,petrol,4.07 Lakh
+2022,Tata,Tata Nexon,14.5K km,petrol,9.18 Lakh
+2022,Maruti,Maruti Swift,39.5K km,petrol,5.15 Lakh
+2018,Tata,Tata Nexon,110.5K km,petrol,5.63 Lakh
+2018,Maruti,Maruti Ciaz,104.5K km,petrol,6.03 Lakh
+2012,Hyundai,Hyundai i10,39.5K km,petrol,2.58 Lakh
+2023,Maruti,Maruti XL6,32.5K km,petrol,11.59 Lakh
+2023,Nissan,Nissan Magnite,86.5K km,petrol,7.76 Lakh
+2018,Skoda,Skoda Octavia,78.5K km,diesel,15.49 Lakh
+2017,Maruti,Maruti Alto 800,96K km,petrol,2.38 Lakh
+2023,MG,MG Hector Plus,26K km,diesel,18.81 Lakh
+2020,Kia,Kia Sonet,41K km,petrol,7.32 Lakh
+2024,Maruti,Maruti Eeco,10.5K km,petrol,5.65 Lakh
+2016,Hyundai,Hyundai Creta,98K km,diesel,7.96 Lakh
+2023,MG,MG Hector Plus,45K km,diesel,16.63 Lakh
+2021,MG,MG Hector,43K km,petrol,14.11 Lakh
+2020,Kia,Kia Sonet,46K km,petrol,8.56 Lakh
+2020,Maruti,Maruti XL6,75.5K km,petrol,8.95 Lakh
+2017,Maruti,Maruti Celerio,89.5K km,petrol,3.42 Lakh
+2017,Volkswagen,Volkswagen Ameo,77K km,petrol,4.81 Lakh
+2021,Maruti,Maruti Baleno,118K km,petrol,5.63 Lakh
+2017,Ford,Ford EcoSport,87.5K km,diesel,5.94 Lakh
+2023,Renault,Renault Kiger,18K km,petrol,7.61 Lakh
+2013,Honda,Honda Brio,57.5K km,petrol,2.95 Lakh
+2023,Renault,Renault Triber,15.5K km,petrol,6.39 Lakh
+2020,Kia,Kia Seltos,80K km,diesel,12.70 Lakh
+2024,Nissan,Nissan Magnite,9.5K km,petrol,9.93 Lakh
+2021,Volkswagen,Volkswagen Vento,119.5K km,petrol,8.47 Lakh
+2023,Mahindra,Mahindra Scorpio N,49.5K km,diesel,20.91 Lakh
+2022,Kia,Kia Seltos,35K km,petrol,10.65 Lakh
+2023,Renault,Renault Triber,44K km,petrol,6.38 Lakh
+2017,Maruti,Maruti Baleno,75.5K km,petrol,5.14 Lakh
+2022,Kia,Kia Seltos,84.5K km,diesel,13.75 Lakh
+2021,Toyota,Toyota Glanza,91.5K km,petrol,6.51 Lakh
+2015,Hyundai,Hyundai Creta,102.5K km,petrol,6.55 Lakh
+2022,Skoda,Skoda Slavia,37K km,petrol,10.40 Lakh
+2021,MG,MG Hector,66K km,diesel,13.87 Lakh
+2017,Datsun,Datsun Redi-GO,45K km,petrol,2.26 Lakh
+2015,Hyundai,Hyundai Grand i10,146.5K km,petrol,3.55 Lakh
+2022,Honda,Honda City,45.5K km,petrol,10.75 Lakh
+2019,Hyundai,Hyundai Venue,93.5K km,petrol,7.56 Lakh
+2021,Hyundai,Hyundai Venue,73.5K km,diesel,8.29 Lakh
+2018,Maruti,Maruti Wagon R 1.0,82K km,petrol,3.70 Lakh
+2011,Maruti,Maruti Swift Dzire,89K km,petrol,2.35 Lakh
+2016,Maruti,Maruti Celerio,50K km,petrol,3.83 Lakh
+2017,Maruti,Maruti Wagon R,66.5K km,petrol,3.59 Lakh
+2023,Hyundai,Hyundai Venue,27K km,petrol,9.41 Lakh
+2022,Tata,Tata Tigor,48K km,petrol,5.88 Lakh
+2023,Maruti,Maruti Brezza,20.5K km,petrol,11.08 Lakh
+2018,Renault,Renault Kwid,109.5K km,petrol,2.68 Lakh
+2014,Hyundai,Hyundai Grand i10,115K km,petrol,3.23 Lakh
+2016,Ford,Ford EcoSport,88K km,diesel,6.28 Lakh
+2019,Renault,Renault Kwid,51K km,petrol,3.43 Lakh
+2016,Ford,Ford Figo Aspire,83.5K km,petrol,4 Lakh
+2016,Hyundai,Hyundai Grand i10,62K km,petrol,4.51 Lakh
+2019,Tata,Tata Nexon,59.5K km,petrol,7.38 Lakh
+2016,Ford,Ford EcoSport,117K km,diesel,4.39 Lakh
+2020,Tata,Tata Tiago,31K km,petrol,5.02 Lakh
+2015,Maruti,Maruti Celerio,90.5K km,petrol,3.13 Lakh
+2023,Skoda,Skoda Kushaq,37K km,petrol,13.68 Lakh
+2011,Maruti,Maruti Swift,113.5K km,petrol,2.54 Lakh
+2021,Renault,Renault Kiger,61K km,petrol,5.30 Lakh
+2015,Renault,Renault Kwid,69.5K km,petrol,2.53 Lakh
+2023,Maruti,Maruti Brezza,35.5K km,petrol,10.65 Lakh
+2017,Maruti,Maruti Swift,109K km,diesel,4.37 Lakh
+2020,Maruti,Maruti Swift,89K km,diesel,6.45 Lakh
+2024,Mahindra,Mahindra XUV700,17.5K km,petrol,20.02 Lakh
+2022,Hyundai,Hyundai Venue,63.5K km,diesel,9.93 Lakh
+2016,Hyundai,Hyundai Grand i10,55.5K km,petrol,4.16 Lakh
+2022,Maruti,Maruti Celerio,59.5K km,petrol,4.52 Lakh
+2021,Volkswagen,Volkswagen Taigun,65K km,petrol,12.12 Lakh
+2021,Tata,Tata Tiago,28K km,petrol,5.42 Lakh
+2023,Hyundai,Hyundai Venue,25.5K km,petrol,8.86 Lakh
+2023,Kia,Kia Sonet,69K km,diesel,10.03 Lakh
+2023,Volkswagen,Volkswagen Virtus,79.5K km,petrol,13.04 Lakh
+2023,Volkswagen,Volkswagen Virtus,16.5K km,petrol,11.31 Lakh
+2022,Kia,Kia Seltos,30K km,petrol,15.46 Lakh
+2013,Maruti,Maruti Wagon R 1.0,93K km,cng,2.77 Lakh
+2017,Ford,Ford EcoSport,49K km,petrol,5.81 Lakh
+2020,Tata,Tata Nexon,70.5K km,petrol,7.18 Lakh
+2023,Maruti,Maruti XL6,47.5K km,petrol,11.19 Lakh
+2017,Volkswagen,Volkswagen Vento,91.5K km,diesel,6.16 Lakh
+2021,Hyundai,Hyundai Venue,24.5K km,petrol,9.13 Lakh
+2021,Hyundai,Hyundai Venue,78K km,petrol,7.06 Lakh
+2016,Ford,Ford Figo Aspire,93K km,petrol,3.84 Lakh
+2016,Hyundai,Hyundai Eon,44K km,petrol,2.41 Lakh
+2017,Maruti,Maruti Baleno,68K km,petrol,4.96 Lakh
+2012,Maruti,Maruti Wagon R 1.0,113.5K km,cng,2.57 Lakh
+2016,Maruti,Maruti Alto K10,67.5K km,petrol,2.44 Lakh
+2017,Renault,Renault Kwid,39K km,petrol,2.92 Lakh
+2023,Volkswagen,Volkswagen Taigun,37K km,petrol,12.51 Lakh
+2021,Ford,Ford Freestyle,49.5K km,diesel,5.98 Lakh
+2019,Volkswagen,Volkswagen Polo,94.5K km,petrol,4.84 Lakh
+2023,Tata,Tata Nexon,21.5K km,petrol,7.79 Lakh
+2020,MG,MG Hector,93.5K km,diesel,11.95 Lakh
+2020,Hyundai,Hyundai Elite i20,96.5K km,petrol,4.77 Lakh
+2018,Maruti,Maruti Baleno,52K km,petrol,4.87 Lakh
+2022,Tata,Tata Nexon,20K km,petrol,8.70 Lakh
+2018,Ford,Ford EcoSport,104.5K km,diesel,6.59 Lakh
+2018,Hyundai,Hyundai Grand i10,29K km,petrol,4.93 Lakh
+2023,Maruti,Maruti S-Presso,21.5K km,petrol,4 Lakh
+2013,Maruti,Maruti Swift,40.5K km,petrol,3.67 Lakh
+2021,Mahindra,Mahindra Thar,52K km,petrol,10.83 Lakh
+2022,Tata,Tata Punch,57K km,petrol,7.17 Lakh
+2021,Tata,Tata Harrier,48.5K km,diesel,15.04 Lakh
+2022,Hyundai,Hyundai New Santro 1.1,25.5K km,petrol,5.33 Lakh
+2017,Hyundai,Hyundai Elite i20,120K km,petrol,4.62 Lakh
+2022,Maruti,Maruti Brezza,28.5K km,petrol,10.44 Lakh
+2015,Hyundai,Hyundai Grand i10,104.5K km,petrol,3.59 Lakh
+2016,Hyundai,Hyundai Grand i10,42.5K km,petrol,4.01 Lakh
+2018,Datsun,Datsun Redi-GO,68.5K km,petrol,2.39 Lakh
+2018,Maruti,Maruti Alto K10,123.5K km,petrol,2.76 Lakh
+2023,Honda,Honda Amaze,22.5K km,petrol,7.57 Lakh
+2023,Maruti,Maruti Baleno,67.5K km,petrol,7.41 Lakh
+2017,Hyundai,Hyundai Creta,76.5K km,diesel,8.61 Lakh
+2024,Maruti,Maruti XL6,43K km,petrol,9.97 Lakh
+2022,Kia,Kia Sonet,59.5K km,diesel,8.88 Lakh
+2021,Ford,Ford EcoSport,17.5K km,petrol,8.42 Lakh
+2017,Volkswagen,Volkswagen Ameo,69.5K km,petrol,4.26 Lakh
+2020,Hyundai,Hyundai Venue,42K km,diesel,8.51 Lakh
+2013,Volkswagen,Volkswagen Vento,130K km,diesel,4.12 Lakh
+2021,Kia,Kia Seltos,71.5K km,petrol,10.41 Lakh
+2023,Nissan,Nissan Magnite,11K km,petrol,8.38 Lakh
+2019,Hyundai,Hyundai Grand i10,29K km,petrol,4.95 Lakh
+2023,Renault,Renault Triber,19K km,petrol,7.38 Lakh
+2019,Honda,Honda Jazz,95.5K km,petrol,4.56 Lakh
+2022,Skoda,Skoda Slavia,61K km,petrol,12.04 Lakh
+2016,Hyundai,Hyundai Grand i10,96.5K km,petrol,3.65 Lakh
+2022,Kia,Kia Seltos,80K km,petrol,9.81 Lakh
+2023,Maruti,Maruti Wagon R,42K km,petrol,5.56 Lakh
+2022,Mahindra,Mahindra Thar,44.5K km,petrol,11.87 Lakh
+2012,Ford,Ford Figo,93K km,diesel,2.45 Lakh
+2019,Hyundai,Hyundai Grand i10,24.5K km,petrol,5.16 Lakh
+2021,Hyundai,Hyundai New Santro 1.1,18K km,petrol,4.99 Lakh
+2018,Maruti,Maruti Wagon R,67.5K km,petrol,3.34 Lakh
+2021,Renault,Renault Kiger,75.5K km,petrol,6.84 Lakh
+2020,Ford,Ford Freestyle,60K km,diesel,6.51 Lakh
+2018,Maruti,Maruti Celerio,43.5K km,petrol,4.29 Lakh
+2021,MG,MG Hector,61K km,diesel,11.97 Lakh
+2014,Hyundai,Hyundai Eon,103K km,petrol,2.15 Lakh
+2019,Hyundai,Hyundai Elite i20,89.5K km,petrol,5.87 Lakh
+2018,Maruti,Maruti Baleno,53K km,petrol,5.57 Lakh
+2016,Hyundai,Hyundai Xcent,110K km,petrol,3.64 Lakh
+2017,Nissan,Nissan Micra Active,100K km,petrol,3.10 Lakh
+2018,Maruti,Maruti S-Cross,106.5K km,diesel,7.12 Lakh
+2012,Ford,Ford Figo,130K km,diesel,2.27 Lakh
+2022,Hyundai,Hyundai Venue,65K km,diesel,9.93 Lakh
+2014,Hyundai,Hyundai Xcent,55.5K km,petrol,4.74 Lakh
+2020,Renault,Renault Triber,67K km,petrol,4.50 Lakh
+2018,Skoda,Skoda Rapid,76K km,diesel,6.25 Lakh
+2021,Datsun,Datsun Redi-GO,56.5K km,petrol,2.87 Lakh
+2022,Skoda,Skoda Slavia,37.5K km,petrol,14.75 Lakh
+2021,Honda,Honda WR-V,47K km,diesel,8.85 Lakh
+2012,Maruti,Maruti Swift,94K km,diesel,3.75 Lakh
+2018,Maruti,Maruti Alto K10,66.5K km,petrol,3.03 Lakh
+2022,Maruti,Maruti Ignis,36K km,petrol,5.22 Lakh
+2013,Honda,Honda Amaze,67.5K km,petrol,3.52 Lakh
+2021,Maruti,Maruti XL6,43.5K km,petrol,10.06 Lakh
+2021,Nissan,Nissan Magnite,90.5K km,petrol,6.06 Lakh
+2012,Maruti,Maruti Wagon R 1.0,72K km,cng,2.72 Lakh
+2022,Skoda,Skoda Kushaq,34K km,petrol,13.06 Lakh
+2023,Hyundai,Hyundai Venue,55K km,petrol,7.68 Lakh
+2022,Maruti,Maruti Alto 800,29.5K km,petrol,3.43 Lakh
+2017,Maruti,Maruti Alto 800,66.5K km,petrol,2.54 Lakh
+2018,Maruti,Maruti Vitara Brezza,75.5K km,diesel,7.70 Lakh
+2018,Renault,Renault Kwid,56.5K km,petrol,3.14 Lakh
+2020,Hyundai,Hyundai Verna,53K km,petrol,10.89 Lakh
+2021,Maruti,Maruti Ignis,33K km,petrol,5.82 Lakh
+2022,Maruti,Maruti S-Presso,21.5K km,petrol,4.80 Lakh
+2022,Maruti,Maruti Brezza,37.5K km,petrol,10.17 Lakh
+2019,Maruti,Maruti Ignis,28K km,petrol,5.68 Lakh
+2016,Ford,Ford EcoSport,90.5K km,diesel,5.50 Lakh
+2024,Mahindra,Mahindra XUV700,16.5K km,petrol,19.86 Lakh
+2023,Hyundai,Hyundai Verna,32.5K km,petrol,14.99 Lakh
+2014,Honda,Honda City,117K km,diesel,4.51 Lakh
+2013,Maruti,Maruti Alto 800,72K km,petrol,2.03 Lakh
+2023,Maruti,Maruti Fronx,28.5K km,petrol,10.86 Lakh
+2018,Hyundai,Hyundai Creta,50.5K km,petrol,9.58 Lakh
+2019,Maruti,Maruti Dzire,39.5K km,petrol,5.86 Lakh
+2016,Hyundai,Hyundai Elite i20,107K km,diesel,4.67 Lakh
+2021,Kia,Kia Sonet,33.5K km,petrol,8.93 Lakh
+2017,Renault,Renault Kwid,97.5K km,petrol,2.68 Lakh
+2023,Renault,Renault Kiger,22K km,petrol,7.36 Lakh
+2019,Datsun,Datsun Redi-GO,49K km,petrol,2.49 Lakh
+2023,Maruti,Maruti Swift,26K km,petrol,7.17 Lakh
+2023,Hyundai,Hyundai Verna,70K km,petrol,13.91 Lakh
+2015,Volkswagen,Volkswagen Polo,142K km,diesel,3.77 Lakh
+2015,Maruti,Maruti Ciaz,99.5K km,petrol,4.78 Lakh
+2023,MG,MG Hector,47.5K km,petrol,17.84 Lakh
+2017,Maruti,Maruti Wagon R 1.0,74.5K km,petrol,3.24 Lakh
+2014,Hyundai,Hyundai Grand i10,63.5K km,diesel,3.78 Lakh
+2021,Hyundai,Hyundai Alcazar,95K km,petrol,13.60 Lakh
+2022,Hyundai,Hyundai Aura,13.5K km,petrol,6.14 Lakh
+2016,Maruti,Maruti S-Cross,100K km,diesel,6.22 Lakh
+2022,Hyundai,Hyundai Creta,74K km,diesel,15.50 Lakh
+2014,Hyundai,Hyundai Grand i10,62K km,petrol,3.50 Lakh
+2021,Renault,Renault Kiger,46.5K km,petrol,5.92 Lakh
+2023,MG,MG Hector Plus,25.5K km,petrol,17.14 Lakh
+2022,Nissan,Nissan Magnite,15.5K km,petrol,5.75 Lakh
+2022,Renault,Renault Kiger,21.5K km,petrol,8.11 Lakh
+2017,Renault,Renault Kwid,68K km,petrol,3.07 Lakh
+2010,Maruti,Maruti Swift Dzire,23K km,petrol,2.79 Lakh
+2011,Maruti,Maruti Wagon R,75K km,petrol,2.13 Lakh
+2015,Maruti,Maruti Ritz,18.5K km,petrol,3.69 Lakh
+2023,Volkswagen,Volkswagen Taigun,41.5K km,petrol,12.48 Lakh
+2023,Tata,Tata Altroz,32.5K km,petrol,7.92 Lakh
+2019,Renault,Renault Kwid,62K km,petrol,3.17 Lakh
+2015,Hyundai,Hyundai i10,47.5K km,petrol,3.19 Lakh
+2019,Maruti,Maruti Baleno,50K km,petrol,6.46 Lakh
+2013,Hyundai,Hyundai i10,129.5K km,petrol,2.91 Lakh
+2022,Maruti,Maruti Brezza,15K km,petrol,10.91 Lakh
+2022,Maruti,Maruti Brezza,61K km,petrol,9.34 Lakh
+2022,Maruti,Maruti XL6,32K km,petrol,9.98 Lakh
+2018,Hyundai,Hyundai Xcent,30.5K km,petrol,5.35 Lakh
+2014,Maruti,Maruti Ritz,109K km,petrol,2.95 Lakh
+2021,Hyundai,Hyundai Aura,28K km,petrol,6.30 Lakh
+2016,Hyundai,Hyundai Eon,59.5K km,petrol,2.70 Lakh
+2020,Hyundai,Hyundai Verna,76.5K km,petrol,10.36 Lakh
+2021,Kia,Kia Sonet,66K km,petrol,7.83 Lakh
+2018,Maruti,Maruti Swift,32K km,petrol,6.17 Lakh
+2018,Hyundai,Hyundai Creta,50K km,diesel,11.03 Lakh
+2016,Maruti,Maruti Swift Dzire,111.5K km,diesel,4.84 Lakh
+2012,Hyundai,Hyundai i10,54.5K km,petrol,2.76 Lakh
+2022,Maruti,Maruti Ignis,67.5K km,petrol,4.95 Lakh
+2013,Maruti,Maruti Swift,115K km,petrol,3.24 Lakh
+2021,Nissan,Nissan Magnite,69K km,petrol,6.54 Lakh
+2023,Maruti,Maruti Ignis,20.5K km,petrol,5.93 Lakh
+2019,Maruti,Maruti Swift,84K km,diesel,6.68 Lakh
+2020,Renault,Renault Triber,112K km,petrol,4.61 Lakh
